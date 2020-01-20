@@ -31,6 +31,9 @@ LogIn_Page.txtbx_Password(driver).sendKeys(sPassword);
 
 LogIn_Page.btn_LogIn(driver).click();
 
+LogIn_Page.btn_LogIn(driver).click();
+LogIn_Page.btn_LogIn(driver).click();
+
 }
 
 }
